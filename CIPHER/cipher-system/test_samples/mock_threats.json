@@ -1,0 +1,30 @@
+[
+  {
+    "id": 101,
+    "sender": "admin@micr0soft-portal-update.ru",
+    "subject": "CRITICAL: Microsoft 365 Password Expires In 2 Hours",
+    "body": "Your corporate account password has expired. Immediate action required. Click here: http://192.168.1.102/login to verify your identity and prevent account suspended status.",
+    "status": "pending"
+  },
+  {
+    "id": 102,
+    "sender": "payroll@bennett-portal-login.xyz",
+    "subject": "Urgent Wire Transfer & Salary Slip Approval",
+    "body": "Please review the updated payroll structure. Confirm wire transfer details by clicking the shortened link: https://bit.ly/secure-pay-slip immediately.",
+    "status": "pending"
+  },
+  {
+    "id": 103,
+    "sender": "newsletter@github.com",
+    "subject": "GitHub Changelog: New Copilot enterprise features",
+    "body": "Here is your summary of what shipped in GitHub over the past month. Check out the release documentation on our official developer blog.",
+    "status": "pending"
+  },
+  {
+    "id": 104,
+    "sender": "security-alert@amazon.com",
+    "subject": "Sign-in detected from a new device",
+    "body": "We noticed a sign-in to your Amazon account from Chrome on Windows. If this was you, you can ignore this alert. If not, secure your account.",
+    "status": "pending"
+  }
+]
